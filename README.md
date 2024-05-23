@@ -1,4 +1,7 @@
-Automated Security Survilance System
+# Automated Security Survilance System
+
+
+
 
 This project, Automated Security Surveillance System, revolutionizes traditional security gate management by leveraging modern technologies such as face recognition and number plate scanning to decrease the manual work at the security gates of institutions.
 
