@@ -7,7 +7,7 @@ from datetime import datetime
 tn=datetime.now()
 t=tn.strftime('%H:%M:%S')
 d=tn.strftime('%d-%m-%Y')
-
+# from datacollect.py
 name=fDataCollect.name
 video = cv2.VideoCapture(0)
 facedetect = cv2.CascadeClassifier(r'D:\DRP Project\haarcascade_frontalface_default.xml')
