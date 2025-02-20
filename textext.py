@@ -9,7 +9,7 @@ def textext(link):
 
 
     headers = {
-        "apikey": "RPEjH2xSfpe81FPT3yQV9G5FjbruWbus"
+        "apikey":#apikey
     }
 
     response = requests.post(url, headers=headers, data=file_content)
